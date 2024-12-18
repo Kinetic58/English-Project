@@ -12,7 +12,6 @@
             background-color: #111;
             color: #fff;
             overflow-x: hidden;
-            overflow-y: hidden;
         }
         .typing-text {
             display: inline-block;
